@@ -1,0 +1,25 @@
+﻿_id,titulo,slug,genero,subcategorias,estado,createdAT
+680446d22a16ea324e2a7dab,Maletas y Mochilas M,maletas-y-mochilas-m,Masculino,"['Maletas de Viaje', 'Mochilas Escolares', 'Mochilas para Portátil', 'Mochilas Urbanas', 'Bolsos Deportivos', 'Riñoneras']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dac,Maletas y Mochilas F,maletas-y-mochilas-f,Femenino,"['Maletas de Viaje', 'Mochilas Escolares', 'Mochilas para Portátil', 'Mochilas Urbanas', 'Bolsos Deportivos', 'Riñoneras']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dad,Maletas y Mochilas (niño),maletas-y-mochilas-nino,Niños,"['Mochilas Escolares', 'Mochilas para Niños', 'Loncheras']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dae,Maletas y Mochilas (niña),maletas-y-mochilas-nina,Niñas,"['Mochilas Escolares', 'Mochilas para Niños', 'Loncheras']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7daf,Accesorios M,accesorios-m,Masculino,"['Billeteras', 'Estuches', 'Portadocumentos', 'Neceseres']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db0,Accesorios F,accesorios-f,Femenino,"['Billeteras', 'Estuches', 'Bolsos de Mano', 'Neceseres']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db1,Accesorios (niño),accesorios-nino,Niños,"['Estuches', 'Loncheras', 'Cartucheras']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db2,Accesorios (niña),accesorios-nina,Niñas,"['Estuches', 'Loncheras', 'Cartucheras']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db3,Ropa M,ropa-m,Masculino,"['Camisetas', 'Pantalones', 'Chaquetas', 'Sudaderas', 'Gorras y Sombreros', 'Ropa Deportiva', 'Ropa Interior']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db4,Ropa F,ropa-f,Femenino,"['Camisetas', 'Pantalones', 'Chaquetas', 'Sudaderas', 'Gorras y Sombreros', 'Ropa Deportiva', 'Ropa Interior']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db5,Ropa (niño),ropa-nino,Niños,"['Camisetas', 'Pantalones', 'Chaquetas', 'Sudaderas', 'Gorras y Sombreros']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db6,Ropa (niña),ropa-nina,Niñas,"['Camisetas', 'Pantalones', 'Chaquetas', 'Sudaderas', 'Gorras y Sombreros']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db7,Calzado M,calzado-m,Masculino,"['Zapatillas Casual', 'Zapatillas Deportivas', 'Sandalias', 'Botas']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db8,Calzado F,calzado-f,Femenino,"['Zapatillas Casual', 'Zapatillas Deportivas', 'Sandalias', 'Botas']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7db9,Calzado (niño),calzado-nino,Niños,"['Zapatillas Casual', 'Zapatillas Deportivas', 'Sandalias', 'Botas']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dba,Calzado (niña),calzado-nina,Niñas,"['Zapatillas Casual', 'Zapatillas Deportivas', 'Sandalias', 'Botas']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dbb,Tecnología M,tecnologia-m,Masculino,"['Audífonos', 'Cargadores', 'Powerbanks', 'Accesorios para Celular', 'Gadgets']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dbc,Tecnología F,tecnologia-f,Femenino,"['Audífonos', 'Cargadores', 'Powerbanks', 'Accesorios para Celular', 'Gadgets']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dbd,Tecnología (niño),tecnologia-nino,Niños,"['Audífonos', 'Accesorios para Celular', 'Gadgets Infantiles']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dbe,Tecnología (niña),tecnologia-nina,Niñas,"['Audífonos', 'Accesorios para Celular', 'Gadgets Infantiles']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dbf,Colecciones Especiales M,colecciones-especiales-m,Masculino,"['Eco-friendly', 'Colecciones Limitadas', 'Premium']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dc0,Colecciones Especiales F,colecciones-especiales-f,Femenino,"['Eco-friendly', 'Colecciones Limitadas', 'Premium']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dc1,Colecciones Especiales (niño),colecciones-especiales-nino,Niños,"['Personajes', 'Colecciones Infantiles']",True,2025-04-17 23:12:34
+680446d22a16ea324e2a7dc2,Colecciones Especiales (niña),colecciones-especiales-nina,Niñas,"['Personajes', 'Colecciones Infantiles']",True,2025-04-17 23:12:34
